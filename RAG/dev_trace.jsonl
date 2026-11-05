@@ -1,0 +1,15 @@
+{"id": "q_001", "llm_calls": 1, "input_tokens": 1733, "output_tokens": 242, "elapsed_ms": 17175, "retrieved_block_ids": ["b_0020", "b_0021", "b_0442", "b_0262"], "decisions": []}
+{"id": "q_002", "llm_calls": 1, "input_tokens": 1586, "output_tokens": 158, "elapsed_ms": 15813, "retrieved_block_ids": ["b_0398", "b_0399", "b_0023", "b_0442"], "decisions": []}
+{"id": "q_003", "llm_calls": 1, "input_tokens": 1158, "output_tokens": 327, "elapsed_ms": 16941, "retrieved_block_ids": ["b_0440", "b_0442", "b_0129", "b_0441"], "decisions": []}
+{"id": "q_004", "llm_calls": 2, "input_tokens": 2939, "output_tokens": 539, "elapsed_ms": 18847, "retrieved_block_ids": ["b_0080", "b_0069", "b_0096", "b_0081"], "decisions": []}
+{"id": "q_005", "llm_calls": 2, "input_tokens": 3102, "output_tokens": 410, "elapsed_ms": 17870, "retrieved_block_ids": ["b_0274", "b_0080", "b_0078", "b_0275"], "decisions": [{"llm_call": 2, "decision": "repair"}]}
+{"id": "q_006", "llm_calls": 2, "input_tokens": 2130, "output_tokens": 359, "elapsed_ms": 17294, "retrieved_block_ids": ["b_0082", "b_0068", "b_0117", "b_0083"], "decisions": []}
+{"id": "q_007", "llm_calls": 2, "input_tokens": 3536, "output_tokens": 452, "elapsed_ms": 18412, "retrieved_block_ids": ["b_0196", "b_0338", "b_0439", "b_0197"], "decisions": []}
+{"id": "q_008", "llm_calls": 2, "input_tokens": 3247, "output_tokens": 375, "elapsed_ms": 17583, "retrieved_block_ids": ["b_0274", "b_0399", "b_0394", "b_0275"], "decisions": [{"llm_call": 2, "decision": "repair"}]}
+{"id": "q_009", "llm_calls": 1, "input_tokens": 1360, "output_tokens": 238, "elapsed_ms": 16336, "retrieved_block_ids": ["b_0130", "b_0398", "b_0440", "b_0442"], "decisions": []}
+{"id": "q_010", "llm_calls": 1, "input_tokens": 1650, "output_tokens": 255, "elapsed_ms": 16550, "retrieved_block_ids": ["b_0086", "b_0088", "b_0398", "b_0237"], "decisions": []}
+{"id": "q_011", "llm_calls": 1, "input_tokens": 1006, "output_tokens": 161, "elapsed_ms": 15870, "retrieved_block_ids": ["b_0103", "b_0170", "b_0106", "b_0104"], "decisions": []}
+{"id": "q_012", "llm_calls": 2, "input_tokens": 3477, "output_tokens": 437, "elapsed_ms": 18065, "retrieved_block_ids": ["b_0427", "b_0252", "b_0237", "b_0243"], "decisions": []}
+{"id": "q_013", "llm_calls": 1, "input_tokens": 1076, "output_tokens": 181, "elapsed_ms": 15967, "retrieved_block_ids": ["b_0103", "b_0056", "b_0181", "b_0104"], "decisions": []}
+{"id": "q_014", "llm_calls": 2, "input_tokens": 2837, "output_tokens": 235, "elapsed_ms": 16440, "retrieved_block_ids": ["b_0122", "b_0219", "b_0119", "b_0123"], "decisions": []}
+{"id": "q_015", "llm_calls": 2, "input_tokens": 3295, "output_tokens": 354, "elapsed_ms": 31908, "retrieved_block_ids": ["b_0140", "b_0051", "b_0364", "b_0360", "b_0361"], "decisions": [{"llm_call": 1, "decision": "search", "search_query": "радиус сходимости ряда Тейлора голоморфной функции единичный круг"}]}

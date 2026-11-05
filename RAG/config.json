@@ -1,0 +1,25 @@
+{
+  "runtime": "runtime.json",
+  "system": "final",
+  "embedding_model": "intfloat/multilingual-e5-small",
+  "embedding_revision": "614241f622f53c4eeff9890bdc4f31cfecc418b3",
+  "embedding_parameters": 117653760,
+  "reranker_model": "BAAI/bge-reranker-v2-m3",
+  "reranker_revision": "953dc6f6f85a1b2dbfca4c34a2796e7dde08d41e",
+  "reranker_parameters": 567755777,
+  "llm_tokenizer": "Qwen/Qwen3.5-4B",
+  "llm_tokenizer_revision": "851bf6e806efd8d0a36b00ddf55e13ccb7b8cd0a",
+  "retrieval": {
+    "child_chars": 500,
+    "child_stride": 320,
+    "bm25_k1": 1.5,
+    "bm25_b": 0.75,
+    "rrf_c": 60,
+    "bm25_top_k": 40,
+    "dense_top_k": 40,
+    "rerank_candidates": 12,
+    "context_k": 4,
+    "batch_size": 16,
+    "excerpt_chars": 900
+  }
+}

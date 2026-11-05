@@ -1,0 +1,20 @@
+{
+  "note": "В папке курса не было runtime.json. Здесь официальные параметры Qwen3.5 для режима без thinking (model card, general tasks). predict.py не меняет temperature, top_p, top_k, min_p, presence_penalty и repetition_penalty. max_tokens — потолок; у конкретного запроса он уменьшается, чтобы вход и допустимый выход не превышали 8192.",
+  "model_id": "Qwen/Qwen3.5-4B",
+  "model_revision": "851bf6e806efd8d0a36b00ddf55e13ccb7b8cd0a",
+  "thinking": false,
+  "sampling": {
+    "temperature": 0.7,
+    "top_p": 0.8,
+    "top_k": 20,
+    "min_p": 0.0,
+    "presence_penalty": 1.5,
+    "repetition_penalty": 1.0,
+    "max_tokens": 1024
+  },
+  "quantization": null,
+  "ram_gb_max": 12,
+  "timeouts_sec": {
+    "request": 180
+  }
+}

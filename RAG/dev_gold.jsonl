@@ -1,0 +1,15 @@
+{"id": "q_001", "category": "conditions", "answer_ids": ["B", "C"], "abstain": false, "citation_sets": [["b_0020"], ["b_0021"], ["b_0020", "b_0021"]], "note": "Теорема 2.1 и её доказательство: вещественная дифференцируемость и Коши—Риман необходимы и достаточны."}
+{"id": "q_002", "category": "conditions", "answer_ids": ["A", "C"], "abstain": false, "citation_sets": [["b_0023"]], "note": "∂f/∂z̅ = (1/2)(∂f/∂x + i ∂f/∂y) = 0."}
+{"id": "q_003", "category": "comparison", "answer_ids": ["B", "C"], "abstain": false, "citation_sets": [["b_0020", "b_0025"], ["b_0024", "b_0025"]], "note": "Гармоничность — уравнение Лапласа; сопряжённость требует Коши—Римана. Контрпример u=x, v=0 в книге не выписан."}
+{"id": "q_004", "category": "comparison", "answer_ids": ["B", "C"], "abstain": false, "citation_sets": [["b_0080", "b_0072"], ["b_0067", "b_0068", "b_0072", "b_0080"]], "note": "Локальная первообразная в замечании 4.1; интеграл 2πi по положительной окружности."}
+{"id": "q_005", "category": "conditions", "answer_ids": ["A", "B"], "abstain": false, "citation_sets": [["b_0078", "b_0067"], ["b_0078"]], "note": "Теорема 4.4: полный дифференциал и нулевой интеграл; первообразная определена раньше."}
+{"id": "q_006", "category": "conditions", "answer_ids": ["A", "D"], "abstain": false, "citation_sets": [["b_0087"], ["b_0083", "b_0084", "b_0087"]], "note": "Следствие 5.1 даёт бесконечную дифференцируемость в ℂ\\γ и формулу (5.1)."}
+{"id": "q_007", "category": "application", "answer_ids": ["C"], "abstain": false, "citation_sets": [["b_0056", "b_0091"]], "note": "Формула (5.2) при n=2 и e^z: 2πi f''(0)/2! = πi."}
+{"id": "q_008", "category": "conditions", "answer_ids": ["B"], "abstain": false, "citation_sets": [["b_0095"]], "note": "Теорема Морера 5.4: любой треугольник вместе с замыканием."}
+{"id": "q_009", "category": "comparison", "answer_ids": ["A", "C"], "abstain": false, "citation_sets": [["b_0024", "b_0025", "b_0091"]], "note": "Лаплас из Коши—Римана; гладкость всех порядков — теорема 5.3."}
+{"id": "q_010", "category": "application", "answer_ids": ["A", "B", "D"], "abstain": false, "citation_sets": [["b_0099"], ["b_0099", "b_0102"]], "note": "c_n = f^(n)(0)/n!, единственность ряда в замечании 6.1."}
+{"id": "q_011", "category": "application", "answer_ids": ["A", "C"], "abstain": false, "citation_sets": [["b_0106"]], "note": "Теорема 6.2 при m=3: степень не выше 3, четвёртая производная нулевая."}
+{"id": "q_012", "category": "comparison", "answer_ids": ["A", "C"], "abstain": false, "citation_sets": [["b_0112", "b_0059", "b_0104"]], "note": "Единственность 6.3, определение синуса, синус назван целой функцией."}
+{"id": "q_013", "category": "insufficient", "answer_ids": [], "abstain": true, "citation_sets": [], "missing": "Теорема Лиувилля даёт постоянство, но не значение константы."}
+{"id": "q_014", "category": "insufficient", "answer_ids": [], "abstain": true, "citation_sets": [], "missing": "Не указана ориентация окружности: интеграл равен 2πi или −2πi."}
+{"id": "q_015", "category": "insufficient", "answer_ids": [], "abstain": true, "citation_sets": [], "missing": "Голоморфность в |z|<1 даёт R ≥ 1, но не точное R."}
